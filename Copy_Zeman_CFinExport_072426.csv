@@ -1,0 +1,57 @@
+"rpt code","line number","item date",Cont/Exp,name,"address 1","address 2",city,state,zip,"cont. type",occupation,"item type",description,amount,"Amend. code",lastname
+57428,1,2026-01-31,E,"Anedot Inc","1340 Poydras Street Suite 1770",,"New Orleans",LA,70112,,,MO,"Credit Card Collection Fee",40.30,,"Anedot Inc"
+57428,1,2026-01-31,C,"Allen  Zeman","***Protected Voter***",,,,,I,SCHOOL<br>BOARD<br>MEMBER,CH,,1000.00,,Zeman
+57428,12,2026-02-02,C,"Yvonne  Garth","5595 Orange Dr #202",,Davie,FL,33314,I,Program<br>Management,CH,,1000.00,,Garth
+57428,13,2026-02-03,C,"Bierman PL  Weiss Serota Helfman Cole","2800 Ponce de Leon Blvd STE 1200",,"Coral Gables",FL,33134,B,"Law Firm",CH,,1000.00,,"Weiss Serota Helfman Cole"
+57428,20,2026-02-04,C,"Barron  Channer","1101 Brickell Ave #310-697",,Miami,FL,33231,I,Business<br>Owner,CH,,1000.00,,Channer
+57428,19,2026-02-04,C,"David  Bjorklund","10295 150th Ct N",,Jupirer,FL,33478,I,Professor,CH,,1000.00,,Bjorklund
+57428,18,2026-02-04,C,"Jennifer  Dimler","***Protected Voter***",,,,,I,,CH,,100.00,,Dimler
+57428,17,2026-02-04,C,"Anthony  De Meo","7726 Yosemite Ln",,Parkland,FL,33067,I,,CH,,100.00,,"De Meo"
+57428,16,2026-02-04,C,"Josh  Levy","***Protected Voter***",,,,,I,Attorney,CH,,500.00,,Levy
+57428,15,2026-02-04,C,"Ryan  Shrouder","9700 Griffin Road",,"Fort Lauderdale",FL,33328,I,Business<br>Owner,CH,,250.00,,Shrouder
+57428,14,2026-02-04,C,"Chuck  Harper","***Protected Voter***",,,,,I,,CH,,100.00,,Harper
+57428,22,2026-02-08,C,"David  Angel","1 Longfellow Place Apt 2916",,Boston,MA,021114,I,Business<br>Owner,CH,,150.00,,Angel
+57428,21,2026-02-08,C,"Blaine  Templeman","3900 Galt Ocean Drive Apt 2417",,"Fort Lauderdale",FL,33308,I,Attorney,CH,,1000.00,,Templeman
+57428,5,2026-02-25,C,"Melinda  P'Pool","3316 NE 42nd Ct",,"Fort Lauderdale",FL,33308,I,Construction,CH,,1000.00,,P'Pool
+57428,2,2026-02-25,C,"Corradino LLC","200 South Meridian Street Suite 330",,Indianapolis,IN,46225,B,Construction,CH,,1000.00,,"Corradino LLC"
+57428,3,2026-02-25,C,"The Corradino Group","200 S Fith St Suite 300 N",,Louisville,KY,40202,B,Construction,CH,,1000.00,,"The Corradino Group"
+57428,11,2026-02-25,C,"Darlene  Sesto","3107 NE 21st Street",,"Fort Lauderdale",FL,33305,I,Nurse,CH,,100.00,,Sesto
+57428,10,2026-02-25,C,"Archibald  Ryan IV","34 NW 1st Ave",,"Dania Beach",FL,33004,I,Real<br>Estate,CH,,100.00,,"Ryan IV"
+57428,9,2026-02-25,C,"Lindsey  Smith","3539 Maria Theresa Ave",,"West Palm Beach",FL,33406,I,Photographer,CH,,100.00,,Smith
+57428,8,2026-02-25,C,"American Holding Group Inc","4325 W Sunrise Blvd",,Plantation,FL,33313,B,Marketing<br>Consulting,CH,,250.00,,"American Holding Group Inc"
+57428,7,2026-02-25,C,"DiPompeo Construction Corp","2301 NE 33rd Court Unit 102",,"Pompano Beach",FL,33069,B,Construction,CH,,300.00,,"DiPompeo Construction Corp"
+57428,6,2026-02-25,C,"Frederick  P'Pool","3316 NE 42nd Ct",,"Fort Lauderdale",FL,33308,I,Construction,CH,,1000.00,,P'Pool
+57428,4,2026-02-25,C,"Government Law Group PLLC","200 South Andrews Ave Ste 601",,"Fort Lauderdale",FL,33301,B,"Law Firm",CH,,1000.00,,"Government Law Group PLLC"
+57428,2,2026-02-28,E,"Anedot Inc","1340 Poydras Street Suite 1770",,"New Orleans ",LA,70112,,,MO,"Credit Card Collection Fee",251.30,,"Anedot Inc"
+57428,25,2026-03-26,C,"Thomas  DiGiorgio","***Protected Voter***",,,,,I,Business<br>Owner,CH,,500.00,,DiGiorgio
+57428,27,2026-03-29,C,"Norman  Ostrau","1901 N Ocean Blvd #8 E",,"Fort Lauderdale",FL,33305,I,Retired,CH,,100.00,,Ostrau
+57428,28,2026-03-29,C,"Derek  Zeman","17820 113th Ter N",,Jupiter,FL,33478,I,Land<br>Surveyor,CH,,1000.00,,Zeman
+57428,26,2026-03-29,C,"Jon  Goodman","1600 ne 1st avenue #3409",,Miami,FL,33132,I,CPA,CH,,1000.00,,Goodman
+57428,23,2026-03-30,C,"Ahhalia  Bahdur","627 Warren St",,Brooklyn,NY,11217,I,Retired,CH,,200.00,,Bahdur
+57428,29,2026-03-30,C,"Joseph  DiRico","2001 N Ocean Blv",,"Fort Lauderdale",FL,33305,I,Retired,CH,,250.00,,DiRico
+57428,24,2026-03-31,C,"Euridice   Lopez","3031 NE 21st Street",,"Fort Lauderdale",FL,33305,I,Retired,CH,,1000.00,,Lopez
+57428,3,2026-03-31,E,"Anedot Inc","1340 Poydras Street Suite 1770",,"New Orleans",LA,70112,,,MO,"Credit Card Collection Fee",115.50,,"Anedot Inc"
+57493,1,2026-04-03,C,"Jonathan  Sommer","831 Beacon St Suite 407",,"Newton Center",MA,02459,I,Management,CH,,2000.00,,Sommer
+57493,2,2026-04-12,C,"Jonathan  Sommer","831 Beacon St Suite 407",,"Newton Center",MA,02459,I,Management,RE,,-2000.00,,Sommer
+57493,3,2026-04-13,C,"Jonathan  Sommer","831 Beacon St Suite 407",,"Newton Center",MA,02459,I,Management,CH,,1000.00,,Sommer
+57493,4,2026-04-27,C,"LSN Partners","3800 NE 1st Ave suite 200",,Miami,FL,33137,B,Government<br>Affairs,CH,,1000.00,,"LSN Partners"
+57493,5,2026-04-27,C,"Michael  McIntyre","575 NE 5th terrace Apt 743",,"Fort Lauderdale",FL,33301,I,"VP program<br>manager",CH,,1000.00,,McIntyre
+57493,1,2026-04-30,E,"Anedot Inc","1340 Poydras Street Suite 1770",,"New Orleans ",LA,70112,,,MO,"Credit Card Collection Fee",201.20,,"Anedot Inc"
+57493,2,2026-05-19,E,"Centennial Bank","2600 E Commercial Blvd",,"Fort Lauderdale",FL,33308,,,MO,Checks,232.34,,"Centennial Bank"
+57493,6,2026-05-29,C,"Lori  Parrish","12801 Luray Rd",,"SW Ranches",FL,33330,I,Retired,CH,,118.00,,Parrish
+57527,1,2026-06-09,E,"Elections  Broward County Supervisor of","4650 NW 21st Ave",,"Fort Lauderdale",FL,33309,,,MO,"Qualifying Fee",2263.48,,"Broward County Supervisor of"
+57527,2,2026-06-10,E,"Bluestream Consulting LLC","5591 NE 33rd Ave",,"Fort Lauderdale",FL,33308,,,MO,"Compliance<br>/ Printed<br>Material",6397.70,,"Bluestream Consulting LLC"
+57527,1,2026-06-11,C,"William  Walker","1366 SE 17th St",,"Fort Lauderdale",FL,33316,I,"CEO Water<br>Taxi",CH,,1000.00,,Walker
+57527,3,2026-06-12,E,"Anedot Inc","1340 Poydras Street Suite 1770",,"New Orleans ",LA,70112,,,MO,"Credit Card Collection Fee",40.30,,"Anedot Inc"
+57582,1,2026-06-13,C,"John  Edelson","2200 N Ocean Blvd Unit N1201",,"Fort Lauderdale",FL,33305,I,Retired,CH,,250.00,,Edelson
+57582,1,2026-06-17,E,"Broward Democratic Party","1700 NW 66 Ave Ste 100",,Plantation,FL,33313,,,MO,"Event Tickets",1000.00,,"Broward Democratic Party"
+57582,2,2026-06-18,C,"Joshua  Schaffer","2219 NE 32ND AVE",,"Fort Lauderdale",FL,33305,I,Self<br>Employed,CH,,500.00,,Schaffer
+57582,3,2026-06-25,C,"Adam  Hall","6311 Tidewater Island Cir",,"Fort Myers",FL,33908,I,Microsoft<br>Executive,CH,,100.00,,Hall
+57582,2,2026-06-26,E,"Anedot Inc","1340 Poydras Street Suite 1770",,"New Orleans ",LA,70112,,,MO,"Credit Card Collection Fees",34.90,,"Anedot Inc"
+57642,1,2026-06-30,C,"EXP PAC","205 N Michigan Ave STE 3600",,Chicago,IL,60601,F,Political<br>Committee,CH,,1000.00,,"EXP PAC"
+57642,2,2026-07-08,C,"Dave  Hall","2030 17th St W PH 722-7253",,Palmetto,FL,34221,I,Retired,CH,,300.00,,Hall
+57642,3,2026-07-08,C,"Steven  Ganon","2517 N Atlantic Blvd",,"Fort Lauderdale",FL,33305,I,Retired,CA,,50.00,,Ganon
+57642,4,2026-07-08,C,"Barbie  Pearson","2420 SE 17th St C402",,"Fort Lauderdale",FL,33316,I,Retired,CA,,50.00,,Pearson
+57682,1,2026-07-14,C,"Randa  Bromiley","1310 E Terra Mar Dr",,"Pompano Beach",FL,33062,I,Retired,CH,,1000.00,,Bromiley
+57682,2,2026-07-15,C,"Sharry  Kimmel","10657 North Lago Vista Circle",,Parkland,FL,33076,I,Professor,CH,,100.00,,Kimmel
+57682,1,2026-07-17,E,"Anedot Inc","1340 Poydras Street Suite 1770",,"New Orleans ",LA,70112,,,MO,"Credit Card Collection Fee",44.60,,"Anedot Inc"
